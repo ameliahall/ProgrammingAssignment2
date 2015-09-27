@@ -2,7 +2,7 @@
 ## functions do
 
 #small dummy matrix for testing:
-#a = matrix(c(2,2,3,2), nrow=2, ncol=2)
+#y <- matrix(1:4, 2, 2)
 
 ## Write a short comment describing this function:
 ## This function takes a matrix object and get and sets
